@@ -1,0 +1,12 @@
+Python packages used by the current project:
+
+beautifulsoup4
+requests
+chromadb
+FlagEmbedding
+ollama
+torch
+
+Runtime requirements:
+- Ollama server with the qwen3:8b model available
+- BAAI/bge-m3 embedding model (downloaded by FlagEmbedding on first use)

@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+chromadb
+FlagEmbedding
+ollama
+torch
